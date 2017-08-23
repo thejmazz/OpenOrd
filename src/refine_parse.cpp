@@ -4,7 +4,7 @@
 #include <iostream>
 #include <map>
 #include <sstream>
-#include <cstdlib>
+#include <stdlib.h>
 
 using namespace std;
 

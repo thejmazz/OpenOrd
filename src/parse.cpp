@@ -3,9 +3,9 @@
 #include <string>
 #include <iostream>
 #include <map>
-#include <cstdlib>
+#include <stdlib.h>
 #include <cstring>
-#include <cstdio>
+#include <stdio.h>
 
 using namespace std;
 

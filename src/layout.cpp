@@ -20,7 +20,7 @@
 #include <string>
 #include <deque>
 #include <vector>
-#include <cstdlib>
+#include <stdlib.h>
 #include <cstring>
 
 using namespace std;

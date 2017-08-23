@@ -41,7 +41,7 @@
 #include <iostream>
 #include <fstream>
 #include <math.h>
-#include <cstdlib>
+#include <stdlib.h>
 
 #include <average_link_clust.h>
 
